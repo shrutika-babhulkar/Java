@@ -4,7 +4,8 @@ public class Factorial {
 
  int num = 5, factorial = 1;
 
- for(int i = 1; i <= num; ++i) {
+ for(int i = 1; i <= num; ++i)
+  {
 
  factorial *= i;
 
